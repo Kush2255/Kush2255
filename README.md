@@ -126,15 +126,27 @@ Voice & Text AI Assistant using Grok-2, ElevenLabs and Supabase.
 
 ---
 
-# Coding Profiles
+## Coding Profiles
 
-- GitHub: https://github.com/Kush2255
-- LinkedIn: https://www.linkedin.com/in/kushwanth-rasala/
-- LeetCode: https://leetcode.com/u/Rasala_Kushwanth/
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/kushwanthrasala
-- HackerRank: https://www.hackerrank.com/profile/23951a6683
+<div align="center">
 
----
+<a href="https://github.com/Kush2255">
+<img src="https://img.shields.io/badge/GitHub-Kush2255-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Rasala_Kushwanth/">
+<img src="https://img.shields.io/badge/LeetCode-Rasala_Kushwanth-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/kushwanthrasala">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/23951a6683">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
 
 # GitHub Analytics
 
@@ -160,9 +172,14 @@ Voice & Text AI Assistant using Grok-2, ElevenLabs and Supabase.
 
 # Snake Animation
 
-After creating `.github/workflows/snake.yml`, use:
+## 🐍 Contribution Snake
 
-```markdown
-<p align="center">
-<img src="https://raw.githubusercontent.com/Kush2255/Kush2255/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kush2255/Kush2255/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kush2255/Kush2255/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kush2255/Kush2255/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
