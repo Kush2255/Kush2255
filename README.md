@@ -1,6 +1,4 @@
-from textwrap import dedent
 
-md = dedent(r"""
 # RASALA KUSHWANTH
 
 <div align="center">
